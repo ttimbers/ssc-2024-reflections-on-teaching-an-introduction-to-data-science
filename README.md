@@ -1,5 +1,5 @@
 # Reflections on scaling an Introduction to Data Science
-- Author: Tiffany Timbers, 2024
+- Author: Tiffany Timbers & Trevor Campbell, 2024
 - Meeting: Statistics Society of Canada meeting
 
 Five years ago the Statistics Department at University of British Columbia 
